@@ -1,0 +1,1 @@
+{"dataset": "UPFD/politifact", "feature": "bert", "sizes": [62, 31, 221], "epochs": 30, "gcn": {"acc": 0.679, "f1": 0.653}, "majority": {"acc": 0.489, "f1": 0.328}}

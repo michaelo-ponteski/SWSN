@@ -1,0 +1,88 @@
+politifact 0 full None {'i_all': 0.783, 'ii_all': 0.783, 'mlp_all': 0.796, 'lrstruct_all': 0.525, 'i_affected': 0.783, 'ii_affected': 0.783, 'mlp_affected': 0.796, 'lrstruct_affected': 0.525}
+politifact 0 time 1 {'i_all': 0.783, 'ii_all': 0.796, 'mlp_all': 0.796, 'lrstruct_all': 0.484, 'i_affected': 0.783, 'ii_affected': 0.796, 'mlp_affected': 0.796, 'lrstruct_affected': 0.484}
+politifact 0 time 5 {'i_all': 0.801, 'ii_all': 0.801, 'mlp_all': 0.796, 'lrstruct_all': 0.484, 'i_affected': 0.801, 'ii_affected': 0.801, 'mlp_affected': 0.796, 'lrstruct_affected': 0.474}
+politifact 0 time 10 {'i_all': 0.819, 'ii_all': 0.801, 'mlp_all': 0.796, 'lrstruct_all': 0.475, 'i_affected': 0.807, 'ii_affected': 0.787, 'mlp_affected': 0.782, 'lrstruct_affected': 0.457}
+politifact 0 time 20 {'i_all': 0.814, 'ii_all': 0.801, 'mlp_all': 0.796, 'lrstruct_all': 0.511, 'i_affected': 0.797, 'ii_affected': 0.774, 'mlp_affected': 0.768, 'lrstruct_affected': 0.492}
+politifact 0 time 50 {'i_all': 0.801, 'ii_all': 0.819, 'mlp_all': 0.796, 'lrstruct_all': 0.516, 'i_affected': 0.772, 'ii_affected': 0.764, 'mlp_affected': 0.748, 'lrstruct_affected': 0.528}
+politifact 0 depth 1 {'i_all': 0.801, 'ii_all': 0.742, 'mlp_all': 0.796, 'lrstruct_all': 0.548, 'i_affected': 0.801, 'ii_affected': 0.742, 'mlp_affected': 0.796, 'lrstruct_affected': 0.548}
+politifact 0 depth 2 {'i_all': 0.796, 'ii_all': 0.801, 'mlp_all': 0.796, 'lrstruct_all': 0.557, 'i_affected': 0.78, 'ii_affected': 0.78, 'mlp_affected': 0.76, 'lrstruct_affected': 0.553}
+politifact 0 depth 3 {'i_all': 0.783, 'ii_all': 0.783, 'mlp_all': 0.796, 'lrstruct_all': 0.552, 'i_affected': 0.762, 'ii_affected': 0.762, 'mlp_affected': 0.772, 'lrstruct_affected': 0.535}
+politifact seed 0 done in 6s
+politifact 1 full None {'i_all': 0.81, 'ii_all': 0.81, 'mlp_all': 0.828, 'lrstruct_all': 0.529, 'i_affected': 0.81, 'ii_affected': 0.81, 'mlp_affected': 0.828, 'lrstruct_affected': 0.529}
+politifact 1 time 1 {'i_all': 0.828, 'ii_all': 0.814, 'mlp_all': 0.828, 'lrstruct_all': 0.471, 'i_affected': 0.828, 'ii_affected': 0.814, 'mlp_affected': 0.828, 'lrstruct_affected': 0.471}
+politifact 1 time 5 {'i_all': 0.814, 'ii_all': 0.801, 'mlp_all': 0.828, 'lrstruct_all': 0.471, 'i_affected': 0.81, 'ii_affected': 0.796, 'mlp_affected': 0.824, 'lrstruct_affected': 0.463}
+politifact 1 time 10 {'i_all': 0.819, 'ii_all': 0.805, 'mlp_all': 0.828, 'lrstruct_all': 0.493, 'i_affected': 0.81, 'ii_affected': 0.795, 'mlp_affected': 0.82, 'lrstruct_affected': 0.47}
+politifact 1 time 20 {'i_all': 0.814, 'ii_all': 0.819, 'mlp_all': 0.828, 'lrstruct_all': 0.498, 'i_affected': 0.81, 'ii_affected': 0.827, 'mlp_affected': 0.816, 'lrstruct_affected': 0.441}
+politifact 1 time 50 {'i_all': 0.81, 'ii_all': 0.805, 'mlp_all': 0.828, 'lrstruct_all': 0.471, 'i_affected': 0.797, 'ii_affected': 0.797, 'mlp_affected': 0.82, 'lrstruct_affected': 0.429}
+politifact 1 depth 1 {'i_all': 0.81, 'ii_all': 0.828, 'mlp_all': 0.828, 'lrstruct_all': 0.557, 'i_affected': 0.81, 'ii_affected': 0.828, 'mlp_affected': 0.828, 'lrstruct_affected': 0.557}
+politifact 1 depth 2 {'i_all': 0.81, 'ii_all': 0.81, 'mlp_all': 0.828, 'lrstruct_all': 0.552, 'i_affected': 0.801, 'ii_affected': 0.801, 'mlp_affected': 0.825, 'lrstruct_affected': 0.56}
+politifact 1 depth 3 {'i_all': 0.81, 'ii_all': 0.819, 'mlp_all': 0.828, 'lrstruct_all': 0.538, 'i_affected': 0.795, 'ii_affected': 0.795, 'mlp_affected': 0.812, 'lrstruct_affected': 0.571}
+politifact seed 1 done in 5s
+politifact 2 full None {'i_all': 0.824, 'ii_all': 0.824, 'mlp_all': 0.742, 'lrstruct_all': 0.48, 'i_affected': 0.824, 'ii_affected': 0.824, 'mlp_affected': 0.742, 'lrstruct_affected': 0.48}
+politifact 2 time 1 {'i_all': 0.787, 'ii_all': 0.751, 'mlp_all': 0.742, 'lrstruct_all': 0.48, 'i_affected': 0.787, 'ii_affected': 0.751, 'mlp_affected': 0.742, 'lrstruct_affected': 0.48}
+politifact 2 time 5 {'i_all': 0.792, 'ii_all': 0.814, 'mlp_all': 0.742, 'lrstruct_all': 0.48, 'i_affected': 0.787, 'ii_affected': 0.815, 'mlp_affected': 0.739, 'lrstruct_affected': 0.469}
+politifact 2 time 10 {'i_all': 0.792, 'ii_all': 0.801, 'mlp_all': 0.742, 'lrstruct_all': 0.498, 'i_affected': 0.782, 'ii_affected': 0.798, 'mlp_affected': 0.736, 'lrstruct_affected': 0.482}
+politifact 2 time 20 {'i_all': 0.792, 'ii_all': 0.751, 'mlp_all': 0.742, 'lrstruct_all': 0.511, 'i_affected': 0.769, 'ii_affected': 0.734, 'mlp_affected': 0.728, 'lrstruct_affected': 0.468}
+politifact 2 time 50 {'i_all': 0.801, 'ii_all': 0.719, 'mlp_all': 0.742, 'lrstruct_all': 0.48, 'i_affected': 0.752, 'ii_affected': 0.713, 'mlp_affected': 0.744, 'lrstruct_affected': 0.411}
+politifact 2 depth 1 {'i_all': 0.805, 'ii_all': 0.715, 'mlp_all': 0.742, 'lrstruct_all': 0.462, 'i_affected': 0.805, 'ii_affected': 0.715, 'mlp_affected': 0.742, 'lrstruct_affected': 0.462}
+politifact 2 depth 2 {'i_all': 0.819, 'ii_all': 0.81, 'mlp_all': 0.742, 'lrstruct_all': 0.484, 'i_affected': 0.792, 'ii_affected': 0.786, 'mlp_affected': 0.73, 'lrstruct_affected': 0.453}
+politifact 2 depth 3 {'i_all': 0.824, 'ii_all': 0.787, 'mlp_all': 0.742, 'lrstruct_all': 0.484, 'i_affected': 0.78, 'ii_affected': 0.761, 'mlp_affected': 0.743, 'lrstruct_affected': 0.422}
+politifact seed 2 done in 5s
+gossipcop 0 full None {'i_all': 0.963, 'ii_all': 0.963, 'mlp_all': 0.738, 'lrstruct_all': 0.784, 'i_affected': 0.963, 'ii_affected': 0.963, 'mlp_affected': 0.738, 'lrstruct_affected': 0.784}
+gossipcop 0 time 1 {'i_all': 0.62, 'ii_all': 0.661, 'mlp_all': 0.738, 'lrstruct_all': 0.499, 'i_affected': 0.62, 'ii_affected': 0.661, 'mlp_affected': 0.738, 'lrstruct_affected': 0.499}
+gossipcop 0 time 5 {'i_all': 0.729, 'ii_all': 0.913, 'mlp_all': 0.738, 'lrstruct_all': 0.596, 'i_affected': 0.726, 'ii_affected': 0.914, 'mlp_affected': 0.74, 'lrstruct_affected': 0.59}
+gossipcop 0 time 10 {'i_all': 0.861, 'ii_all': 0.936, 'mlp_all': 0.738, 'lrstruct_all': 0.729, 'i_affected': 0.849, 'ii_affected': 0.933, 'mlp_affected': 0.739, 'lrstruct_affected': 0.699}
+gossipcop 0 time 20 {'i_all': 0.927, 'ii_all': 0.944, 'mlp_all': 0.738, 'lrstruct_all': 0.779, 'i_affected': 0.917, 'ii_affected': 0.94, 'mlp_affected': 0.733, 'lrstruct_affected': 0.734}
+gossipcop 0 time 50 {'i_all': 0.955, 'ii_all': 0.964, 'mlp_all': 0.738, 'lrstruct_all': 0.786, 'i_affected': 0.955, 'ii_affected': 0.967, 'mlp_affected': 0.734, 'lrstruct_affected': 0.79}
+gossipcop 0 depth 1 {'i_all': 0.963, 'ii_all': 0.962, 'mlp_all': 0.738, 'lrstruct_all': 0.777, 'i_affected': 0.963, 'ii_affected': 0.962, 'mlp_affected': 0.738, 'lrstruct_affected': 0.777}
+gossipcop 0 depth 2 {'i_all': 0.963, 'ii_all': 0.964, 'mlp_all': 0.738, 'lrstruct_all': 0.78, 'i_affected': 0.963, 'ii_affected': 0.964, 'mlp_affected': 0.711, 'lrstruct_affected': 0.678}
+gossipcop 0 depth 3 {'i_all': 0.963, 'ii_all': 0.961, 'mlp_all': 0.738, 'lrstruct_all': 0.783, 'i_affected': 0.974, 'ii_affected': 0.968, 'mlp_affected': 0.698, 'lrstruct_affected': 0.642}
+gossipcop seed 0 done in 240s
+gossipcop 1 full None {'i_all': 0.967, 'ii_all': 0.967, 'mlp_all': 0.743, 'lrstruct_all': 0.779, 'i_affected': 0.967, 'ii_affected': 0.967, 'mlp_affected': 0.743, 'lrstruct_affected': 0.779}
+gossipcop 1 time 1 {'i_all': 0.624, 'ii_all': 0.722, 'mlp_all': 0.743, 'lrstruct_all': 0.495, 'i_affected': 0.624, 'ii_affected': 0.722, 'mlp_affected': 0.743, 'lrstruct_affected': 0.495}
+gossipcop 1 time 5 {'i_all': 0.791, 'ii_all': 0.905, 'mlp_all': 0.743, 'lrstruct_all': 0.599, 'i_affected': 0.788, 'ii_affected': 0.904, 'mlp_affected': 0.744, 'lrstruct_affected': 0.591}
+gossipcop 1 time 10 {'i_all': 0.891, 'ii_all': 0.939, 'mlp_all': 0.743, 'lrstruct_all': 0.726, 'i_affected': 0.88, 'ii_affected': 0.936, 'mlp_affected': 0.75, 'lrstruct_affected': 0.692}
+gossipcop 1 time 20 {'i_all': 0.945, 'ii_all': 0.946, 'mlp_all': 0.743, 'lrstruct_all': 0.771, 'i_affected': 0.94, 'ii_affected': 0.939, 'mlp_affected': 0.757, 'lrstruct_affected': 0.723}
+gossipcop 1 time 50 {'i_all': 0.963, 'ii_all': 0.96, 'mlp_all': 0.743, 'lrstruct_all': 0.785, 'i_affected': 0.961, 'ii_affected': 0.958, 'mlp_affected': 0.771, 'lrstruct_affected': 0.79}
+gossipcop 1 depth 1 {'i_all': 0.968, 'ii_all': 0.967, 'mlp_all': 0.743, 'lrstruct_all': 0.772, 'i_affected': 0.968, 'ii_affected': 0.967, 'mlp_affected': 0.743, 'lrstruct_affected': 0.772}
+gossipcop 1 depth 2 {'i_all': 0.967, 'ii_all': 0.966, 'mlp_all': 0.743, 'lrstruct_all': 0.777, 'i_affected': 0.96, 'ii_affected': 0.959, 'mlp_affected': 0.723, 'lrstruct_affected': 0.671}
+gossipcop 1 depth 3 {'i_all': 0.967, 'ii_all': 0.965, 'mlp_all': 0.743, 'lrstruct_all': 0.777, 'i_affected': 0.959, 'ii_affected': 0.952, 'mlp_affected': 0.662, 'lrstruct_affected': 0.62}
+gossipcop seed 1 done in 175s
+gossipcop 2 full None {'i_all': 0.968, 'ii_all': 0.968, 'mlp_all': 0.74, 'lrstruct_all': 0.783, 'i_affected': 0.968, 'ii_affected': 0.968, 'mlp_affected': 0.74, 'lrstruct_affected': 0.783}
+gossipcop 2 time 1 {'i_all': 0.585, 'ii_all': 0.72, 'mlp_all': 0.74, 'lrstruct_all': 0.495, 'i_affected': 0.585, 'ii_affected': 0.72, 'mlp_affected': 0.74, 'lrstruct_affected': 0.495}
+gossipcop 2 time 5 {'i_all': 0.825, 'ii_all': 0.913, 'mlp_all': 0.74, 'lrstruct_all': 0.597, 'i_affected': 0.825, 'ii_affected': 0.913, 'mlp_affected': 0.743, 'lrstruct_affected': 0.589}
+gossipcop 2 time 10 {'i_all': 0.907, 'ii_all': 0.929, 'mlp_all': 0.74, 'lrstruct_all': 0.721, 'i_affected': 0.902, 'ii_affected': 0.928, 'mlp_affected': 0.751, 'lrstruct_affected': 0.69}
+gossipcop 2 time 20 {'i_all': 0.949, 'ii_all': 0.947, 'mlp_all': 0.74, 'lrstruct_all': 0.759, 'i_affected': 0.943, 'ii_affected': 0.944, 'mlp_affected': 0.762, 'lrstruct_affected': 0.706}
+gossipcop 2 time 50 {'i_all': 0.964, 'ii_all': 0.965, 'mlp_all': 0.74, 'lrstruct_all': 0.785, 'i_affected': 0.964, 'ii_affected': 0.965, 'mlp_affected': 0.774, 'lrstruct_affected': 0.782}
+gossipcop 2 depth 1 {'i_all': 0.969, 'ii_all': 0.971, 'mlp_all': 0.74, 'lrstruct_all': 0.775, 'i_affected': 0.969, 'ii_affected': 0.971, 'mlp_affected': 0.74, 'lrstruct_affected': 0.775}
+gossipcop 2 depth 2 {'i_all': 0.968, 'ii_all': 0.969, 'mlp_all': 0.74, 'lrstruct_all': 0.774, 'i_affected': 0.971, 'ii_affected': 0.973, 'mlp_affected': 0.719, 'lrstruct_affected': 0.672}
+gossipcop 2 depth 3 {'i_all': 0.968, 'ii_all': 0.969, 'mlp_all': 0.74, 'lrstruct_all': 0.775, 'i_affected': 0.965, 'ii_affected': 0.972, 'mlp_affected': 0.667, 'lrstruct_affected': 0.637}
+gossipcop seed 2 done in 174s
+### politifact
+
+| setting | mean nodes (test) | affected / test | (i) full→trunc acc | (ii) trunc→trunc acc | news-MLP acc | LR struct acc | (i) acc, affected | (ii) acc, affected | news-MLP acc, affected | LR struct acc, affected |
+|---|---|---|---|---|---|---|---|---|---|---|
+| full | 124.7 | 221 / 221 | 0.805 ± 0.017 | 0.805 ± 0.017 | 0.789 ± 0.036 | 0.511 ± 0.022 | 0.805 ± 0.017 | 0.805 ± 0.017 | 0.789 ± 0.036 | 0.511 ± 0.022 |
+| time k=1 | 1.0 | 221 / 221 | 0.799 ± 0.020 | 0.787 ± 0.027 | 0.789 ± 0.036 | 0.478 ± 0.006 | 0.799 ± 0.020 | 0.787 ± 0.027 | 0.789 ± 0.036 | 0.478 ± 0.006 |
+| time k=5 | 5.0 | 213 / 221 | 0.802 ± 0.009 | 0.805 ± 0.006 | 0.789 ± 0.036 | 0.478 ± 0.006 | 0.799 ± 0.010 | 0.804 ± 0.008 | 0.787 ± 0.035 | 0.469 ± 0.004 |
+| time k=10 | 9.6 | 197 / 221 | 0.810 ± 0.013 | 0.802 ± 0.002 | 0.789 ± 0.036 | 0.489 ± 0.010 | 0.800 ± 0.012 | 0.793 ± 0.005 | 0.779 ± 0.034 | 0.470 ± 0.010 |
+| time k=20 | 18.1 | 176 / 221 | 0.807 ± 0.011 | 0.790 ± 0.029 | 0.789 ± 0.036 | 0.507 ± 0.006 | 0.792 ± 0.017 | 0.778 ± 0.038 | 0.771 ± 0.036 | 0.467 ± 0.021 |
+| time k=50 | 38.3 | 130 / 221 | 0.804 ± 0.004 | 0.781 ± 0.044 | 0.789 ± 0.036 | 0.489 ± 0.020 | 0.774 ± 0.018 | 0.758 ± 0.034 | 0.771 ± 0.035 | 0.456 ± 0.051 |
+| depth d=1 | 68.4 | 221 / 221 | 0.805 ± 0.004 | 0.762 ± 0.048 | 0.789 ± 0.036 | 0.522 ± 0.043 | 0.805 ± 0.004 | 0.762 ± 0.048 | 0.789 ± 0.036 | 0.522 ± 0.043 |
+| depth d=2 | 109.3 | 158 / 221 | 0.808 ± 0.009 | 0.807 ± 0.004 | 0.789 ± 0.036 | 0.531 ± 0.033 | 0.791 ± 0.009 | 0.789 ± 0.009 | 0.772 ± 0.040 | 0.522 ± 0.049 |
+| depth d=3 | 118.3 | 107 / 221 | 0.805 ± 0.017 | 0.796 ± 0.016 | 0.789 ± 0.036 | 0.525 ± 0.029 | 0.779 ± 0.013 | 0.773 ± 0.015 | 0.776 ± 0.028 | 0.509 ± 0.064 |
+
+### gossipcop
+
+| setting | mean nodes (test) | affected / test | (i) full→trunc acc | (ii) trunc→trunc acc | news-MLP acc | LR struct acc | (i) acc, affected | (ii) acc, affected | news-MLP acc, affected | LR struct acc, affected |
+|---|---|---|---|---|---|---|---|---|---|---|
+| full | 57.4 | 3826 / 3826 | 0.966 ± 0.002 | 0.966 ± 0.002 | 0.740 ± 0.002 | 0.782 ± 0.002 | 0.966 ± 0.002 | 0.966 ± 0.002 | 0.740 ± 0.002 | 0.782 ± 0.002 |
+| time k=1 | 1.0 | 3826 / 3826 | 0.610 ± 0.017 | 0.701 ± 0.028 | 0.740 ± 0.002 | 0.496 ± 0.002 | 0.610 ± 0.017 | 0.701 ± 0.028 | 0.740 ± 0.002 | 0.496 ± 0.002 |
+| time k=5 | 5.0 | 3726 / 3826 | 0.782 ± 0.040 | 0.910 ± 0.004 | 0.740 ± 0.002 | 0.597 ± 0.001 | 0.780 ± 0.041 | 0.911 ± 0.005 | 0.742 ± 0.002 | 0.590 ± 0.001 |
+| time k=10 | 9.7 | 3338 / 3826 | 0.886 ± 0.019 | 0.935 ± 0.004 | 0.740 ± 0.002 | 0.725 ± 0.003 | 0.877 ± 0.022 | 0.933 ± 0.003 | 0.747 ± 0.005 | 0.694 ± 0.004 |
+| time k=20 | 17.7 | 2790 / 3826 | 0.940 ± 0.009 | 0.946 ± 0.001 | 0.740 ± 0.002 | 0.770 ± 0.008 | 0.934 ± 0.011 | 0.941 ± 0.002 | 0.750 ± 0.013 | 0.721 ± 0.011 |
+| time k=50 | 35.6 | 1850 / 3826 | 0.960 ± 0.004 | 0.963 ± 0.002 | 0.740 ± 0.002 | 0.786 ± 0.001 | 0.960 ± 0.004 | 0.963 ± 0.004 | 0.760 ± 0.018 | 0.787 ± 0.004 |
+| depth d=1 | 44.3 | 3826 / 3826 | 0.967 ± 0.003 | 0.966 ± 0.004 | 0.740 ± 0.002 | 0.775 ± 0.002 | 0.967 ± 0.003 | 0.966 ± 0.004 | 0.740 ± 0.002 | 0.775 ± 0.002 |
+| depth d=2 | 55.6 | 1118 / 3826 | 0.966 ± 0.002 | 0.967 ± 0.002 | 0.740 ± 0.002 | 0.777 ± 0.002 | 0.965 ± 0.005 | 0.965 ± 0.006 | 0.718 ± 0.005 | 0.674 ± 0.003 |
+| depth d=3 | 56.7 | 463 / 3826 | 0.966 ± 0.002 | 0.965 ± 0.003 | 0.740 ± 0.002 | 0.778 ± 0.003 | 0.966 ± 0.006 | 0.964 ± 0.009 | 0.676 ± 0.016 | 0.633 ± 0.010 |
+
