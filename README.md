@@ -8,6 +8,7 @@ Time-aware graph vs. time-series representations of news propagation (Semantic W
 uv sync                          # Python 3.11 + dependencies from uv.lock
 ./download_data.sh               # ~1.6 GB, checksummed, resumable -> data/archives, data/raw (read-only)
 uv run python src/build_data.py  # data/raw -> data/processed (~2 min)
+uv run --with jupyter jupyter lab notebooks/eda.ipynb  # exploratory analysis (figures also saved to artifacts/eda/)
 ```
 
 ## Data
@@ -31,7 +32,7 @@ Preprocessing decisions:
 
 1. **Time origin**: Twitter delays are relative to the source tweet; UPFD news nodes have no timestamp, so t = 0 is the first engagement.
 2. **Node identity**: UPFD node = one post (a user may repeat); Twitter node = one user (uid is unique per tree; the raw `tweet_id` field is not a node id).
-3. **Twitter parents**: ~1.3 % of nodes have several candidate parents, which explains 98 % of time-inverted edges.
+3. **Twitter parents**: ~1 % of nodes have several candidate parents, which explains 98 % of time-inverted edges.
    We take the most recent earlier node (latest exposure); self-loops and edges into the root are dropped. Every tree ends up time-consistent.
 4. **Posts before the source tweet** (736 nodes in 27 trees): `t_min` clamped to 0, raw value kept.
 5. **Binary labels**: fake = `false`, real = `true` + `non-rumor`, `unverified` = NA (veracity unknown). UPFD: 1 = fake.
