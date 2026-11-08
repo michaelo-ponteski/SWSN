@@ -11,6 +11,8 @@ uv run python src/build_data.py  # data/raw -> data/processed (~2 min)
 uv run --with jupyter jupyter lab notebooks/eda.ipynb  # exploratory analysis (figures also saved to artifacts/eda/)
 ```
 
+Milestone 2 report: `report/eda_report.pdf` (LaTeX source next to it; figures from `artifacts/eda/`).
+
 ## Data
 
 | dataset | source | cascades | label |
